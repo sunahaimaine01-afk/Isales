@@ -1,0 +1,6 @@
+{
+  "name": "I SALE AUTOS — Premium Used Car Sales",
+  "description": "Discover quality pre-owned vehicles at I SALE AUTOS. Browse our curated inventory, clean titles, transparent details, and connect directly with the seller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
